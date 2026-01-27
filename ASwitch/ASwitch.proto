@@ -1,0 +1,56 @@
+Terminator = "\n";
+
+cmd {
+    out "%s";
+}
+
+scan2 {
+    out "%{A|B}";
+}
+
+scan3 {
+    out "%{C|D}";
+}
+
+scan4 {
+    out "%{E|F}";
+}
+
+scan5 {
+    out "%{G|H}";
+}
+
+scan6 {
+    out "%{I|J}";
+}
+
+scan7 {
+    out "%{K|L}";
+}
+
+scan8 {
+    out "%{M|N}";
+}
+
+scan9 {
+    out "%{O|P}";
+}
+
+scan10 {
+    out "%{Q|R}";
+}
+
+scan11 {
+    out "%{S|T}";
+}
+
+scan12 {
+    out "%{U|V}";
+}
+
+scan13 {
+    out "%{W|X}";
+}
+
+
+
