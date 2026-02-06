@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Saved on 2026-02-06 18:35:31 by mix3k-->
+<display version="2.0.0">
+  <name>Display</name>
+  <widget type="label" version="2.0.0">
+    <name>Label</name>
+    <class>TITLE</class>
+    <text>Floating-Switch</text>
+    <x use_class="true">0</x>
+    <y use_class="true">0</y>
+    <width>550</width>
+    <height>31</height>
+    <font use_class="true">
+      <font name="Header 1" family="Liberation Sans" style="BOLD" size="22.0">
+      </font>
+    </font>
+    <foreground_color use_class="true">
+      <color name="Text" red="0" green="0" blue="0">
+      </color>
+    </foreground_color>
+    <transparent use_class="true">true</transparent>
+  </widget>
+  <widget type="bool_button" version="2.0.0">
+    <name>Boolean Button</name>
+    <pv_name>scan2</pv_name>
+    <x>700</x>
+    <y>180</y>
+    <width>60</width>
+    <height>90</height>
+    <off_label>12 Off</off_label>
+    <on_label>12 On</on_label>
+  </widget>
+  <widget type="bool_button" version="2.0.0">
+    <name>Boolean Button_1</name>
+    <pv_name>scan3</pv_name>
+    <x>640</x>
+    <y>180</y>
+    <width>60</width>
+    <height>90</height>
+    <off_label>11 Off</off_label>
+    <on_label>11 On</on_label>
+  </widget>
+  <widget type="bool_button" version="2.0.0">
+    <name>Boolean Button_2</name>
+    <pv_name>scan4</pv_name>
+    <x>580</x>
+    <y>180</y>
+    <width>60</width>
+    <height>90</height>
+    <off_label>10 Off</off_label>
+    <on_label>10 On</on_label>
+  </widget>
+  <widget type="bool_button" version="2.0.0">
+    <name>Boolean Button_3</name>
+    <pv_name>scan6</pv_name>
+    <x>460</x>
+    <y>180</y>
+    <width>60</width>
+    <height>90</height>
+    <off_label>8 Off</off_label>
+    <on_label>8 On</on_label>
+  </widget>
+  <widget type="bool_button" version="2.0.0">
+    <name>Boolean Button_4</name>
+    <pv_name>scan5</pv_name>
+    <x>520</x>
+    <y>180</y>
+    <width>60</width>
+    <height>90</height>
+    <off_label>9 Off</off_label>
+    <on_label>9 On</on_label>
+  </widget>
+  <widget type="bool_button" version="2.0.0">
+    <name>Boolean Button_5</name>
+    <pv_name>scan7</pv_name>
+    <x>400</x>
+    <y>180</y>
+    <width>60</width>
+    <height>90</height>
+    <off_label>7 Off</off_label>
+    <on_label>7 On</on_label>
+  </widget>
+  <widget type="bool_button" version="2.0.0">
+    <name>Boolean Button_6</name>
+    <pv_name>scan8</pv_name>
+    <x>340</x>
+    <y>180</y>
+    <width>60</width>
+    <height>90</height>
+    <off_label>6 Off</off_label>
+    <on_label>6 On</on_label>
+  </widget>
+  <widget type="bool_button" version="2.0.0">
+    <name>Boolean Button_7</name>
+    <pv_name>scan9</pv_name>
+    <x>280</x>
+    <y>180</y>
+    <width>60</width>
+    <height>90</height>
+    <off_label>5 Off</off_label>
+    <on_label>5 On</on_label>
+  </widget>
+  <widget type="bool_button" version="2.0.0">
+    <name>Boolean Button_10</name>
+    <pv_name>scan10</pv_name>
+    <x>220</x>
+    <y>180</y>
+    <width>60</width>
+    <height>90</height>
+    <off_label>4 Off</off_label>
+    <on_label>4 On</on_label>
+  </widget>
+  <widget type="bool_button" version="2.0.0">
+    <name>Boolean Button_12</name>
+    <pv_name>scan11</pv_name>
+    <x>160</x>
+    <y>180</y>
+    <width>60</width>
+    <height>90</height>
+    <off_label>3 Off</off_label>
+    <on_label>3 On</on_label>
+  </widget>
+  <widget type="bool_button" version="2.0.0">
+    <name>Boolean Button_13</name>
+    <pv_name>scan12</pv_name>
+    <x>100</x>
+    <y>180</y>
+    <width>60</width>
+    <height>90</height>
+    <off_label>2 Off</off_label>
+    <on_label>2 On</on_label>
+  </widget>
+  <widget type="bool_button" version="2.0.0">
+    <name>Boolean Button_14</name>
+    <pv_name>scan13</pv_name>
+    <x>40</x>
+    <y>180</y>
+    <width>60</width>
+    <height>90</height>
+    <off_label>1 Off</off_label>
+    <on_label>1 On</on_label>
+  </widget>
+</display>
