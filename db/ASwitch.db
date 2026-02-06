@@ -1,0 +1,103 @@
+# ピン制御用レコード
+record(stringout, "ASwitch:cmd")  {
+  field(DESC, "Send command to ASwitch")
+  field(DTYP, "stream")
+  field(OUT, "@ASwitch.proto cmd L0")
+  field(PROC, "0")
+}
+
+record(bo, "scan2")  {
+  field(DESC, "Read state2 Arduino")
+  field(VAL, 0)
+  field(DTYP, "stream")
+  field(OUT, "@ASwitch.proto scan2 L0")
+  field(PINI, "YES")
+}
+
+record(bo, "scan3")  {
+  field(DESC, "Read state3 Arduino")
+  field(VAL, 0)
+  field(DTYP, "stream")
+  field(OUT, "@ASwitch.proto scan3 L0")
+  field(PINI, "YES")
+}
+
+record(bo, "scan4")  {
+  field(DESC, "Read state4 Arduino")
+  field(VAL, 0)
+  field(DTYP, "stream")
+  field(OUT, "@ASwitch.proto scan4 L0")
+  field(PINI, "YES")
+}
+
+record(bo, "scan5")  {
+  field(DESC, "Read state5 Arduino")
+  field(VAL, 0)
+  field(DTYP, "stream")
+  field(OUT, "@ASwitch.proto scan5 L0")
+  field(PINI, "YES")
+}
+
+record(bo, "scan6")  {
+  field(DESC, "Read state6 Arduino")
+  field(VAL, 0)
+  field(DTYP, "stream")
+  field(OUT, "@ASwitch.proto scan6 L0")
+  field(PINI, "YES")
+}
+
+record(bo, "scan7")  {
+  field(DESC, "Read state7 Arduino")
+  field(VAL, 0)
+  field(DTYP, "stream")
+  field(OUT, "@ASwitch.proto scan7 L0")
+  field(PINI, "YES")
+}
+
+record(bo, "scan8")  {
+  field(DESC, "Read state8 Arduino")
+  field(VAL, 0)
+  field(DTYP, "stream")
+  field(OUT, "@ASwitch.proto scan8 L0")
+  field(PINI, "YES")
+}
+
+record(bo, "scan9")  {
+  field(DESC, "Read state9 Arduino")
+  field(VAL, 0)
+  field(DTYP, "stream")
+  field(OUT, "@ASwitch.proto scan9 L0")
+  field(PINI, "YES")
+}
+
+record(bo, "scan10")  {
+  field(DESC, "Read state10 Arduino")
+  field(VAL, 0)
+  field(DTYP, "stream")
+  field(OUT, "@ASwitch.proto scan10 L0")
+  field(PINI, "YES")
+}
+
+record(bo, "scan11")  {
+  field(DESC, "Read state11 Arduino")
+  field(VAL, 0)
+  field(DTYP, "stream")
+  field(OUT, "@ASwitch.proto scan11 L0")
+  field(PINI, "YES")
+}
+
+record(bo, "scan12")  {
+  field(DESC, "Read state12 Arduino")
+  field(VAL, 0)
+  field(DTYP, "stream")
+  field(OUT, "@ASwitch.proto scan12 L0")
+  field(PINI, "YES")
+}
+
+record(bo, "scan13")  {
+  field(DESC, "Read state13 Arduino")
+  field(VAL, 0)
+  field(DTYP, "stream")
+  field(OUT, "@ASwitch.proto scan13 L0")
+  field(PINI, "YES")
+}
